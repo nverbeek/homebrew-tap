@@ -1,6 +1,6 @@
 cask "nats-client-ui" do
-  version "1.0.19"
-  sha256 "344cad4182d338bb8204a20c647009e4fbbf9b6c9536942cf52dd6aabe838e60"
+  version "1.0.20"
+  sha256 "3a76a74349ae45fae31763a785f6456b065ae9e81eb4301a89c4b626ea870c0c"
 
   url "https://github.com/nverbeek/nats_client_flutter/releases/download/v#{version}/NATSClientUI-v#{version}-macos.dmg"
   name "NATS Client UI"
